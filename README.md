@@ -1,6 +1,8 @@
 # Recipes App in React Native
-
-## Getting Started
+## Envoidment for React Native
+- nodejs version 18.18.0
+- npm version 10.1.0
+### Getting Started
 
 To run the app, simply run
 
@@ -8,9 +10,7 @@ To run the app, simply run
 
 And scan the QR code in the Expo client app.
 
-## Expo Demo
-<center><a href=""><img src="https://instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" /></a></center>
-## Features
+#### Features
 - Login
 - Signup
 - Login with GG vs FB (work has not been completed)
